@@ -1,0 +1,6 @@
+owner=403670476016189441
+prefix=2
+game=By:Savage_pro | play
+stayinchannel=true
+songinstatus=false
+token=NTM1NzY3NTQxMzEwODE2Mjg2.DyNAaQ.eIzLCWa2CPlG2rCSuIJlm-8a1IY
